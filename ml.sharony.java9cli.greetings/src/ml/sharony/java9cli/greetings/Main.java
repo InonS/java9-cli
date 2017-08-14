@@ -1,4 +1,4 @@
-package ml.sharony.java9cli;
+package ml.sharony.java9cli.greetings;
 
 public class Main {
 
